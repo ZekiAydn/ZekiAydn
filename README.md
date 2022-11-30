@@ -28,10 +28,10 @@
 
 **Front-end**<br>
 
-<code><img title="HTML" height="50" src=imgs/html.png></code>
-<code><img title="CSS" height="50" src=imgs/css.png></code>
-<code><img title="JQUERY" height="50" src=imgs/jquery.png></code>
-<code><img title="REACT" height="50" src=imgs/react.png></code><br><br>
+<code><img title="HTML" height="50" src=html.png></code>
+<code><img title="CSS" height="50" src=css.png></code>
+<code><img title="JQUERY" height="50" src=jquery.png></code>
+<code><img title="REACT" height="50" src=react.png></code><br><br>
 
 **Back-end**<br>
 
