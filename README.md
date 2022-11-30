@@ -1,16 +1,44 @@
-### Hi there 👋
+<p align="center">
 
-<!--
-**ZekiAydn/ZekiAydn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=6289F7&background=F2FFEF00&center=true&vCenter=true&lines=Hi+there%2C+I'm+Zeki+%F0%9F%91%8B;Junior+Front-End+Developer">
 
-Here are some ideas to get you started:
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# <p align="center">
+<p align="center">
+ <a href="https://www.linkedin.com/in/zekiaydinn/">
+    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="assets/linkedin.svg">
+  </a>
+</p>
+</p>
+
+# <p>
+
+💻 I graduated at Akdeniz University from the department of Management Information Systems (Bachelor Degree), <br> Web Design and Coding. (Associate Degree) <br>
+🏠 I’m currently living at Antalya <br/>
+🌱 I’m currently learning React.js <br/>
+
+</p>
+
+# <p>
+
+![Visitor Count](https://profile-counter.glitch.me/ZekiAydn/count.svg)
+
+</p>
+
+**Front-end**<br>
+
+<code><img title="HTML" height="50" src=imgs/html.png></code>
+<code><img title="CSS" height="50" src=imgs/css.png></code>
+<code><img title="JQUERY" height="50" src=imgs/jquery.png></code>
+<code><img title="REACT" height="50" src=imgs/react.png></code><br><br>
+
+**Back-end**<br>
+
+<code><img title="PHP" height="50" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/php.svg"></code><br><br>
+
+
+
+
+[![Zeki's github stats](https://github-readme-stats.vercel.app/api?username=ZekiAydn&show_icons=true&theme=merko)](https://github.com/ZekiAydn)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZekiAydn&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
