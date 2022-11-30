@@ -33,12 +33,5 @@
 <code><img title="JQUERY" height="50" src=jquery.png></code>
 <code><img title="REACT" height="50" src=react.png></code><br><br>
 
-**Back-end**<br>
-
-<code><img title="PHP" height="50" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/php.svg"></code><br><br>
-
-
-
-
 [![Zeki's github stats](https://github-readme-stats.vercel.app/api?username=ZekiAydn&show_icons=true&theme=merko)](https://github.com/ZekiAydn)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZekiAydn&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
