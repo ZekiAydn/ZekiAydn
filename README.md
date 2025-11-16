@@ -15,12 +15,12 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Akdeniz Üniversitesi — *Yönetim Bilişim Sistemleri (Lisans)*
-- 🏠 Based in **Antalya, Turkey**
-- 💼 Currently working as **Frontend Developer (Vue.js)** at DBGlobe Technology  
-- 💡 Specializing in **Vue 3, Composition API, Pinia, React, Angular, React Native**
-- 🚀 Passionate about **component-driven development, clean architecture, performance**  
-- 🌱 Currently learning **Advanced Vue patterns & React ecosystem**
+- 🎓 Graduated from **Akdeniz University — Management Information Systems (BSc)**
+- 🏠 Currently based in **Antalya, Turkey**
+- 💼 Working as **Frontend Developer (Vue.js)** at DBGlobe Technology  
+- 💡 Strong experience with **Vue 3, Composition API, Pinia, React, Angular, React Native**
+- 🚀 Focused on **component-driven development, performance, clean architecture, and accessible UX**
+- 🌱 Learning **advanced Vue patterns and improving React ecosystem knowledge**
 
 ---
 
@@ -61,40 +61,41 @@
 
 ### **DBGlobe Technology — Frontend Developer (Vue.js)**  
 *Dec 2024 – Present*  
-- Vue 3, Pinia, Vue Router ile B2B/B2C/admin paneller geliştirme  
-- Rol bazlı erişim, temiz API entegrasyonları  
-- Code splitting, lazy loading, performans optimizasyonları  
+- Building B2B/B2C/admin panels using Vue 3, Pinia, Vue Router  
+- Implementing role-based access control & clean API layers  
+- Improving UX performance (code splitting, lazy loading, reducing re-renders)
 
 ### **Pargali Bilişim — Frontend & React Native Developer**  
 *Feb 2023 – Aug 2024*  
-- Cworc ürünü için web ve mobil geliştirme  
-- React, Angular, React Native üzerinde özellik geliştirme  
-- İki mobil uygulama end-to-end teslimi  
+- Contributed to **Cworc** self-accounting product  
+- Developed features with React, Angular, and React Native  
+- Delivered two mobile applications end-to-end  
+- Improved reliability, accessibility, and process flows
 
 ### **Freelance — Frontend/Mobile Developer**  
 *Jan 2022 – Jan 2023*  
-- React, Angular, RN projelerine destek  
-- Küçük işletmeler için web/mobil çözümleri  
+- Delivered features & fixes for React, Angular, and React Native projects  
+- Worked closely with small businesses and startups on scope & delivery  
 
 ---
 
 ## 📂 Highlight Projects
 
 ### **Paiperworks (Web)**  
-- Self-accounting / bütçe takibi  
-- Offline-friendly, sade form mimarisi, mini görselleştirmeler  
+- Budget tracking & self-accounting tool  
+- Built offline-friendly UX and reliable form structures
 
 ### **Multibiller (Mobile)**  
-- React Native fatura uygulaması  
-- PDF export + local storage  
+- React Native invoicing app  
+- Local storage + PDF export for quick on-the-go invoicing
 
 ### **Hotel Cleaning (Web/Mobile)**  
-- Angular + React Native  
-- Offline erişim, canlı dashboard’lar  
+- Angular (web) + React Native (mobile)  
+- Offline access & real-time dashboards (room status, lost-and-found)
 
 ### **Accounting Tech (Web/Mobile)**  
-- React.js + Redux-Saga & RN  
-- Document upload + Amazon S3 storage  
+- React.js + Redux-Saga (web) & React Native (mobile)  
+- Document upload and secure Amazon S3 storage solutions
 
 ---
 
